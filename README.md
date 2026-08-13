@@ -51,6 +51,8 @@
 2. `index.html`을 더블클릭합니다.
 3. 원하는 프로그램의 **실행하기** 버튼을 누릅니다.
 
+또는 `maternal_integrated_app.html`을 열면 다섯 가지 기능을 한 화면에서 버튼으로 바꾸어 실행할 수 있습니다.
+
 각 프로그램 파일을 직접 실행할 수도 있습니다.
 
 - `hospital_visit_schedule.html`: 병원 방문 일정 관리
@@ -58,6 +60,7 @@
 - `medication_schedule.html`: 복약·영양제 일정 관리
 - `prenatal_test_checklist.html`: 산전검사 일정 체크리스트
 - `birth_childcare_cost_calculator.html`: 출산·육아 예상비용 계산기
+- `maternal_integrated_app.html`: 다섯 가지 기능 통합 실행 화면
 
 ## 데이터 저장 방식
 
